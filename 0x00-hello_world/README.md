@@ -1,1 +1,1 @@
-my hello read me
+# Hello world in C programming
