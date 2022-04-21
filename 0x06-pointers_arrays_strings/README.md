@@ -1,1 +1,1 @@
-0x06 pointer
+my second pointer
