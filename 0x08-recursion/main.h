@@ -18,4 +18,3 @@ int checker(char *s1, char *s2, int a, int b, int wildUsed);
 int wildcmp(char *s1, char *s2);
 
 #endif
-
